@@ -1,0 +1,9 @@
+﻿@Languages_Types_HostAddress = https://localhost:7116
+
+GET {{Languages_Types_HostAddress}}/api/languages
+
+###
+
+GET {{Languages_Types_HostAddress}}/api/languages
+
+###
